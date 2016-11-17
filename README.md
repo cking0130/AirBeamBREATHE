@@ -7,7 +7,7 @@ Steps to Re-Flash the AirBeam for new data format:
 
 2) Open Arduino software on your computer
 
-3) Download this code onto your desktop
+3) Download this code onto your desktop by pressing "Clone or Download" and then "Download Zip" in GitHub
 
 4) In Arduino, go to File-->Open-->Open this code from the folder you downloaded it to 
 
